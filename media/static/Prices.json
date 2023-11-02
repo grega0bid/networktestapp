@@ -1,0 +1,284 @@
+[
+    {
+        "id": 1010,
+        "group": "Snemna protetika",
+        "name": "Totalna proteza - klasična",
+        "price": 125.00
+    },
+    {
+        "id": 1020,
+        "group": "Snemna protetika",
+        "name": "Doplačilo boljši zobje",
+        "price": 100.00
+    },
+    {
+        "id": 1030,
+        "group": "Snemna protetika",
+        "name": "Parcialna proteza",
+        "price": 150.00
+    },
+    {
+        "id": 1040,
+        "group": "Snemna protetika",
+        "name": "Ulita baza - navadna",
+        "price": 160.00
+    },
+    {
+        "id": 1050,
+        "group": "Snemna protetika",
+        "name": "Ulita baza - zahtevna",
+        "price": 190.00
+    },
+    {
+        "id": 1060,
+        "group": "Snemna protetika",
+        "name": "Izgotovitev ulite baze - navadna",
+        "price": 115.00
+    },
+    {
+        "id": 1070,
+        "group": "Snemna protetika",
+        "name": "Izgotovitev ulite baze - zahtevna",
+        "price": 135.00
+    },
+    {
+        "id": 1080,
+        "group": "Snemna protetika",
+        "name": "Grizna šablona",
+        "price": 20.00
+    },
+    {
+        "id": 1090,
+        "group": "Snemna protetika",
+        "name": "Akrilna žlica",
+        "price": 20.00
+    },
+    {
+        "id": 1100,
+        "group": "Snemna protetika",
+        "name": "Reperatura proteze 1 element",
+        "price": 30.00
+    },
+    {
+        "id": 1110,
+        "group": "Snemna protetika",
+        "name": "Reperatura proteze vsak dodatni element",
+        "price": 5.00
+    },
+    {
+        "id": 1120,
+        "group": "Snemna protetika",
+        "name": "Podložitev proteze",
+        "price": 40.00
+    },
+    {
+        "id": 1130,
+        "group": "Snemna protetika",
+        "name": "Začasna proteza - žabica mala",
+        "price": 40.00
+    },
+    {
+        "id": 1140,
+        "group": "Snemna protetika",
+        "name": "Začasna proteza - žabica srednja",
+        "price": 65.00
+    },
+    {
+        "id": 1150,
+        "group": "Snemna protetika",
+        "name": "Začasna proteza - žabica velika",
+        "price": 125.00
+    },
+    {
+        "id": 1160,
+        "group": "Snemna protetika",
+        "name": "Ščitnik za športnike, bruksiste",
+        "price": 60.00
+    },
+    {
+        "id": 1170,
+        "group": "Snemna protetika",
+        "name": "Ščitnik za športnike, bruksiste",
+        "price": 120.00
+    },
+    {
+        "id": 1180,
+        "group": "Snemna protetika",
+        "name": "Ojačitev proteze (mrežica - lok)",
+        "price": 35.00
+    },
+    {
+        "id": 1190,
+        "group": "Snemna protetika",
+        "name": "Lasersko lotanje",
+        "price": 60.00
+    },
+    {
+        "id": 1200,
+        "group": "Snemna protetika",
+        "name": "Lasersko lotanje",
+        "price": 100.00
+    },
+    {
+        "id": 1210,
+        "group": "Fiksna protetika",
+        "name": "Kovinsko keramična prevleka",
+        "price": 85.00
+    },
+    {
+        "id": 1220,
+        "group": "Fiksna protetika",
+        "name": "Polno keramična prevleka",
+        "price": 130.00
+    },
+    {
+        "id": 1230,
+        "group": "Fiksna protetika",
+        "name": "Inlay",
+        "price": 130.00
+    },
+    {
+        "id": 1240,
+        "group": "Fiksna protetika",
+        "name": "Press keramika (e-max)",
+        "price": 130.00
+    },
+    {
+        "id": 1250,
+        "group": "Fiksna protetika",
+        "name": "Keramična prevleka na cirkonijevem ogrodju",
+        "price": 160.00
+    },
+    {
+        "id": 1260,
+        "group": "Fiksna protetika",
+        "name": "Fasetirana prevleka brez kovine",
+        "price": 60.00
+    },
+    {
+        "id": 1270,
+        "group": "Fiksna protetika",
+        "name": "Anker",
+        "price": 65.00
+    },
+    {
+        "id": 1280,
+        "group": "Fiksna protetika",
+        "name": "Gred + jahač",
+        "price": 65.00
+    },
+    {
+        "id": 1290,
+        "group": "Fiksna protetika",
+        "name": "Rezkanje (po zobu)",
+        "price": 15.00
+    },
+    {
+        "id": 1300,
+        "group": "Fiksna protetika",
+        "name": "Kompozitni inlay",
+        "price": 60.00
+    },
+    {
+        "id": 1310,
+        "group": "Fiksna protetika",
+        "name": "Kompozitni inlay",
+        "price": 80.00
+    },
+    {
+        "id": 1320,
+        "group": "Fiksna protetika",
+        "name": "Richmond (brez kovine)",
+        "price": 75.00
+    },
+    {
+        "id": 1330,
+        "group": "Fiksna protetika",
+        "name": "Konus (brez kovine)",
+        "price": 85.00
+    },
+    {
+        "id": 1340,
+        "group": "Fiksna protetika",
+        "name": "Nazidek (brez kovine)",
+        "price": 20.00
+    },
+    {
+        "id": 1350,
+        "group": "Fiksna protetika",
+        "name": "Indirektni nazidek (brez kovine)",
+        "price": 40.00
+    },
+    {
+        "id": 1360,
+        "group": "Fiksna protetika",
+        "name": "Menjava ankerja",
+        "price": 20.00
+    },
+    {
+        "id": 1370,
+        "group": "Ostalo",
+        "name": "Študijski model",
+        "price": 20.00
+    },
+    {
+        "id": 1380,
+        "group": "Ostalo",
+        "name": "Omavčevanje z obraznim lokom",
+        "price": 10.00
+    }, 
+    {
+        "id": 1390,
+        "group": "Ostalo",
+        "name": "Poliuretanski model",
+        "price": 20.00
+    },
+    {
+        "id": 1400,
+        "group": "Ostalo",
+        "name": "Wax up - študijska modulacija po zobu",
+        "price": 5.00
+    },
+    {
+        "id": 1410,
+        "group": "Ostalo",
+        "name": "Dubleranje modela",
+        "price": 30.00
+    },
+    {
+        "id": 1420,
+        "group": "Ostalo",
+        "name": "Dodatna dostava",
+        "price": 20.00
+    },
+    {
+        "id": 1430,
+        "group": "Ostalo",
+        "name": "Izbira barve",
+        "price": 20.00
+    },
+    {
+        "id": 1440,
+        "group": "Ostalo",
+        "name": "Čiščenje in dezinfekcija",
+        "price": 20.00
+    },
+    {
+        "id": 1450,
+        "group": "Ostalo",
+        "name": "Poštnina",
+        "price": 10.00
+    },
+    {
+        "id": 1460,
+        "group": "Ostalo",
+        "name": "Preomavčevanje",
+        "price": 10.00
+    },
+    {
+        "id": 1470,
+        "group": "Ostalo",
+        "name": "Prepostavitev",
+        "price": 30.00
+    }
+]
